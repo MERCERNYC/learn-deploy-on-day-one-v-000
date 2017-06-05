@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#juliana-fogg-cover {
+    background-image: url("http://i.imgur.com/AzT0Kls.jpg");
+}
+
+#juliana-fogg-card {
+    background-image: url("http://i.imgur.com/9RtePLX.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
